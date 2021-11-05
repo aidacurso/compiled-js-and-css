@@ -1,0 +1,16 @@
+.CORPO{
+    padding: 100px;
+
+}
+.rodape{
+    background-color:  rgba(214, 213, 213, 0.658);
+    MARGIN-TOP: 30PX;
+}
+.foda{
+    background-image: url(https://via.placeholder.com/2000x500);
+    width: auto;
+    height: 350px;
+}
+.centro{
+    text-align: center;
+}
